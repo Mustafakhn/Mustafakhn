@@ -8,7 +8,7 @@
 - Continuous Learning
 
 🌟 **Previous Experience:**
-- Co-founder, DevOps Engineer at Intra Evolve 🚀
+- Founder, DevOps Engineer at Intra Evolve 🚀
 
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%232867B2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-aamir-khan) 
