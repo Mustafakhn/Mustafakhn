@@ -1,11 +1,13 @@
 # 💫 About Me:
-🔭 DevOps Intern at Mopid<br>👯 Open Source Collaboration Enthusiast<br>🌱 Learning latest DevOps tools to stay relevant<br>💬 Let's chat about DevOps Practices and Cloud Infrastructure
+🔭 DevOps Engineer at Mopid<br>👯 Open Source Collaboration Enthusiast<br>🌱 Learning latest DevOps and SRE tools to stay relevant<br>💬 Let's chat about DevOps Practices and Cloud Infrastructure
 
 🚀 **Passionate about:**
 - Automation
 - Collaboration
 - CI/CD
 - Continuous Learning
+- Observabilty
+- Development
 
 🌟 **Previous Experience:**
 - Founder, DevOps Engineer at Intra Evolve 🚀
