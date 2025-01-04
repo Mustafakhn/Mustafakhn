@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 DevOps Engineer at Mopid<br>👯 Open Source Collaboration Enthusiast<br>🌱 Learning latest DevOps and SRE tools to stay relevant<br>💬 Let's chat about DevOps Practices and Cloud Infrastructure
+🔭 DevOps|SRE|Backend Engineer<br>👯 Open Source Collaboration Enthusiast<br>🌱 Learning latest DevOps and SRE tools to stay relevant<br>💬 Let's chat about DevOps Practices and Cloud Infrastructure
 
 🚀 **Passionate about:**
 - Automation
